@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/djilou/Documents/TP1/videoShow/src/package1/.metadata/.plugins/org.eclipse.jdt.core
+3023778853.index
